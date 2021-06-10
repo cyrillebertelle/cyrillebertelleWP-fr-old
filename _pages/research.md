@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: resaerch
+title: research
 description: research activities description
 nav: true
 ---
