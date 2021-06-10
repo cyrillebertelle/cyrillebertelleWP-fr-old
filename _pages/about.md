@@ -3,18 +3,17 @@ layout: about
 title: about
 permalink: /
 description: 
-  <a href="https://www.litislab.fr/">LITIS Lab.</a>. 
-  <a href="https://sflog.univ-lehavre.fr/">SFLog</a>.
-  <a href="https://isc-n.fr">ISCN</a>. 
-  <a href="http://www.normastic.fr/">FR CNRS 3638 NormaSTIC Contacts</a>.
+  <a href="https://www.litislab.fr/">LITIS Lab.</a> /  
+  <a href="https://sflog.univ-lehavre.fr/">SFLog</a> / 
+  <a href="https://isc-n.fr">ISCN</a> /  
+  <a href="http://www.normastic.fr/">FR CNRS 3638 NormaSTIC</a>
 
 profile:
   align: right
   image: cyrillebertelle2016.jpg
   address: >
-    <p>UFR Sciences and Technology - Univ Le Havre Normandie</p>
-    <p>25 rue Ph. Lebon - BP 1123, 76063 Le Havre Cedex</p>
-    <p><a href="mailto: cyrille.bertelle@univ-lehavre.fr">cyrille.bertelle@univ-lehavre.fr</a></p>
+    <p>Normandie Univ - Le Havre</p>
+    
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
