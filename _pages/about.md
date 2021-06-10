@@ -24,17 +24,17 @@ social: true  # includes social icons at the bottom of the page
 
 I am full Professor in Computer Science at LITIS & NORMASTIC FR-CNRS 3638 at Normandy University – Le Havre, France where I am Director of SFLog, Research Federation in Logistics, Normandie. I am co-coordinator of CS-DC (Complex System Digital Campus) UNESCO UniTwin. 
 
-## Current Research Interests and Projects
-    - Complex Systems Modelling and Simulation
-    - Complex Networks for Territorial Intelligence and Logistics Systems
-    - Blockchains for Supply Chain Transactions
+### Current Research Interests and Projects
+- Complex Systems Modelling and Simulation
+- Complex Networks for Territorial Intelligence and Logistics Systems
+- Blockchains for Supply Chain Transactions
 
-## Responsabilities
-    - Director of SFLog, the Federative Structure for Research in Logistics
-    - President of the Intitute for Smart Logistics in the Seine Valley
-    - Co-coordinator of the Research and Educational Pôle CTM (Earth-Sea Continuum) in Normandie
-    - Co-coordinator of UniTwin UNESCO CS-DC (Complex Systems Digital Campus)
-    - Co-coordinator of ISCN (Complex Systems Institute in Normandie)
+### Responsabilities
+- Director of SFLog, the Federative Structure for Research in Logistics
+- President of the Intitute for Smart Logistics in the Seine Valley
+- Co-coordinator of the Research and Educational Pôle CTM (Earth-Sea Continuum) in Normandie
+- Co-coordinator of UniTwin UNESCO CS-DC (Complex Systems Digital Campus)
+- Co-coordinator of ISCN (Complex Systems Institute in Normandie)
 
 
 <!--- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
