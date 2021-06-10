@@ -8,7 +8,7 @@ description:
   <a href="https://isc-n.fr">ISCN</a> /  
   <a href="http://www.normastic.fr/">FR CNRS 3638 NormaSTIC</a><br>
   <a href="http://www.normandie-univ.fr/">Normandie Univ</a> - 
-  <a href="http://www.univ-lehavre.fr/">Université Le Havre Normandie</a>
+  <a href="http://www.univ-lehavre.fr/">Université Le Havre Normandie</a> - France
 
 profile:
   align: right
