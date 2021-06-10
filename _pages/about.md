@@ -6,13 +6,15 @@ description:
   <a href="https://www.litislab.fr/">LITIS Lab.</a> /  
   <a href="https://sflog.univ-lehavre.fr/">SFLog</a> / 
   <a href="https://isc-n.fr">ISCN</a> /  
-  <a href="http://www.normastic.fr/">FR CNRS 3638 NormaSTIC</a>
+  <a href="http://www.normastic.fr/">FR CNRS 3638 NormaSTIC</a><br>
+  <a href="http://www.normandie-univ.fr/">Normandie Univ</a> - 
+  <a href="http://www.univ-lehavre.fr/">Université Le Havre Normandie</a>
 
 profile:
   align: right
   image: cyrillebertelle2016.jpg
   address: >
-    <p>Normandie Univ - Le Havre</p>
+    <p>   </p>
     
 
 news: true  # includes a list of news items
