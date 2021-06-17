@@ -28,7 +28,7 @@ I am full Professor in Computer Science at LITIS & NORMASTIC FR-CNRS 3638 at Nor
 ## current research interests and projects
 - Complex Systems Modelling and Simulation
 - Complex Networks for Territorial Intelligence and Logistics Systems
-- Blockchains for Supply Chain Transactions  
+- Blockchains for smart logistics  
   
   
 ## responsabilities
