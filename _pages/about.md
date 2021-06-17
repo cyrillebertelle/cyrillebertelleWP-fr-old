@@ -12,7 +12,7 @@ description:
 
 profile:
   align: right
-  image: cyrillebertelle2016.jpg
+  image: cyrille2016-nb.jpg
   address: >
     <p>   </p>
     
