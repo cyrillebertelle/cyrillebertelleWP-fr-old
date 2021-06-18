@@ -23,7 +23,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Cyrille Bertelle est professeur des universités en informatique au LITIS & NORMASTIC FR-CNRS 3638 à Normandy Université – Le Havre, France où il est également directeur de SFLog, la struucture fédérative de recherche en Logistique en Normandie. Il est co-coordinateurr de l'UniTwin UNESCO CS-DC (Complex System Digital Campus) .  
+Cyrille Bertelle est professeur des universités en informatique au LITIS & NORMASTIC FR-CNRS 3638 à Normandy Université – Le Havre, France où il est également directeur de SFLog, la struucture fédérative de recherche en Logistique en Normandie. Il est co-coordinateurr de l'UniTwin UNESCO CS-DC (Complex System Digital Campus).  
    
    
 ## intérêts de recherche actuelle
