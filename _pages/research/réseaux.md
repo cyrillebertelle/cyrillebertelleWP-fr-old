@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /research/networks/
-title: networks
+permalink: /research/reseaux/
+title: reseaux
 description: networks of collaboration description
 nav: true
 ---
