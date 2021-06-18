@@ -9,7 +9,7 @@ description:
   <a href="http://www.normastic.fr/">FR CNRS 3638 NormaSTIC</a><br>
   <a href="http://www.normandie-univ.fr/">Normandie Univ</a> - 
   <a href="http://www.univ-lehavre.fr/">Université Le Havre Normandie</a> - France<br><br>
-  <a href="https://cyrillebertelle.github.io/cyrillebertelleWP/">Site en anglais</a>
+  <a href="https://cyrillebertelle.github.io/cyrillebertelleWP/">English version of this WebsiteSite</a>
 
 profile:
   align: right
